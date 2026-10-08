@@ -1,0 +1,11 @@
+PRIMARYID,drug,PTs,serious,file name
+236442575,DUPIXENT,Renal disorder; Dyspnoea; Cardiac disorder; Death; General physical health deterioration; Skin cancer,yes,cases/236442575.md
+255529252,DUPIXENT,Dyspnoea,yes,cases/255529252.md
+196559993,DUPIXENT,Hospitalisation; Product use in unapproved indication; Rash,yes,cases/196559993.md
+168525962,DUPIXENT,Eye pruritus; Eye discharge; Product use in unapproved indication; Ocular hyperaemia,no,cases/168525962.md
+258979652,BIMZELX,Skin ulcer,no,cases/258979652.md
+209157233,DUPIXENT; BIMZELX,Product use in unapproved indication; Product dose omission in error,no,cases/209157233.md
+174912276,DUPIXENT,Pruritus; Malaise; Headache; Eczema; Nausea; Therapeutic response decreased; Alopecia; Exposure during pregnancy,no,cases/174912276.md
+246757656,BIMZELX,Product quality issue,no,cases/246757656.md
+251272263,BIMZELX,Rash; Chest pain; Stomatitis; Throat irritation; Blister,yes,cases/251272263.md
+244623883,BIMZELX; DUPIXENT,Localised infection; Psoriasis; Hypersensitivity,no,cases/244623883.md
